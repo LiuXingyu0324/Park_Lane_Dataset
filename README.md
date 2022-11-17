@@ -1,2 +1,5 @@
 # Park_Lane_Dataset
-A simple lane dataset about semi-structured scenarios.
+
+这是一份拍摄于重庆市森林越野公园的非城市数据集，属于半结构化场景。其中，每张图像的分辨率为1280×720，且采用了和TuSimple数据集相同的标注方法，读者可采用与TuSimple数据集相似的训练以及测试方式对此数据集进行处理，进而对模型的性能进行评估。
+
+![alt text](vis.jpg "vis")
